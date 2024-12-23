@@ -5,11 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [https://tanvirhossain746.bio.link/](https://tanvirhossain746.bio.link/)
 
-- 💬 Ask me about **HTML,CSS,PHP,Javascript**
+- 💬 Ask me about **HTML,CSS,PHP,Javascript,Firebase**
 
 - 📫 How to reach me **hossaintanvir2001@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1WFJK6qKQoCpyhDWzDHE4-E6rHFzL3J8TyVkb2GPUem0/edit?tab=t.0](https://docs.google.com/document/d/1WFJK6qKQoCpyhDWzDHE4-E6rHFzL3J8TyVkb2GPUem0/edit?tab=t.0)
+- 📄 Know about my experiences [https://bit.ly/Tanvir_CV](https://bit.ly/Tanvir_CV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
