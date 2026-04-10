@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Framework, Web**
 
-- 👨‍💻 All of my projects are available at [https://tanvirhossain746.bio.link/](https://tanvirhossain746.bio.link/)
+- 👨‍💻 All of my projects are available at [https://tanvirhossain746.bio.link/](https://trxtanvir.github.io/)
 
 - 💬 Ask me about **HTML,CSS,PHP,Javascript,Firebase**
 
